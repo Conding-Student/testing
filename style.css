@@ -1,0 +1,30 @@
+body{
+                
+    background-image: url('hehe.avif');
+    width:100%;
+    height: 100%;
+    background-size: cover;
+    }
+    
+    .picture-div{
+        float: right;
+        margin-right: 200px;
+        margin-top: 200px;
+        
+    }
+    .paragraph{
+        display: inline-block;
+        margin-left: 450px;
+        margin-top: 300px;
+        font-family: 'Lucida Sans';
+    }
+    .paragraph-1{
+        display: inline-block;
+        margin-left: 450px;
+        margin-top: 300px;
+        font-family: 'Lucida Sans';
+    }
+    p{
+        width: 40ch;
+        text-align: justify;
+    }
